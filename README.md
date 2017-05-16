@@ -1,4 +1,4 @@
-# [CSS Reference](https://github.com/9IV-Radio/css-reference_zh-hant-tw)：免費的視覺化 CSS 手冊
+# [CSS Reference](https://github.com/9IV-Radio/css-reference_zh-hant-tw)：視覺化 CSS 手冊
 
 [![CSS Reference screenshot](https://raw.github.com/9IV-Radio/css-reference_zh-hant-tw/master/images/css-reference-share.png)](https://9IV-Radio.github.io/css-reference_zh-hant-tw)
 
