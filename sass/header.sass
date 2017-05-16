@@ -3,9 +3,14 @@
 
 .header-figure
   display: flex
+  position: relative
   img:first-child
     height: 128px
     width: 128px
+
+.header-figure:after
+  content: '中文'
+  position: absolute
 
 .header-carbon
   background-color: white
@@ -52,6 +57,8 @@
     margin-bottom: 30px
     img:last-child
       height: 40px
+  .header-figure:after
+    position: static
   .header-carbon
     justify-content: center
     margin: 0 auto 2rem
@@ -68,6 +75,9 @@
     img:last-child
       height: 80px
       margin-left: 20px
+  .header-figure:after
+    top: 0
+    right: 0
   .header-carbon
     margin-left: 1rem
     margin-right: 2rem
